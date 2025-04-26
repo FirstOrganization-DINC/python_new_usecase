@@ -1,0 +1,18 @@
+
+# ✅ Flask Web Framework
+Flask
+
+# ✅ Environment Variable Loader
+python-dotenv
+
+# ✅ AWS SDK for Python
+boto3
+
+# ✅ PostgreSQL client for Python
+psycopg2-binary
+
+# ✅ HTTP client for calling Cognito / token endpoints
+requests
+
+# ✅ For decoding and verifying JWT tokens with AWS Cognito
+python-jose

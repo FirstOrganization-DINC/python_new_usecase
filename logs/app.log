@@ -1,0 +1,77 @@
+2025-04-18 18:40:05 | ERROR | Error generating token: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-18 18:40:10 | ERROR | Error generating token: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-18 18:40:12 | ERROR | Error generating token: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-18 18:40:13 | ERROR | Error generating token: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-18 18:40:17 | ERROR | Error generating token: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-18 18:40:19 | ERROR | Error generating token: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-18 18:40:21 | ERROR | Error generating token: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-18 18:40:31 | ERROR | Error generating token: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-18 18:40:49 | ERROR | Error generating token: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-18 18:54:58 | ERROR | Error generating token: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-18 18:55:17 | ERROR | Error generating token: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-19 11:22:12 | WARNING | Missing one or more required fields: clientId, secret, scope
+2025-04-19 11:26:45 | INFO | Received token request for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-19 11:26:45 | INFO | Requesting token from Cognito for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-19 11:26:45 | WARNING | Cognito token request failed: 403
+2025-04-19 11:29:39 | INFO | Received token request for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-19 11:29:39 | INFO | Requesting token from Cognito for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-19 11:29:39 | WARNING | Cognito token request failed: 403
+2025-04-19 11:45:41 | INFO | Received token request for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-19 11:45:41 | INFO | Requesting token from Cognito for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-19 11:45:41 | WARNING | Cognito token request failed: 403
+2025-04-19 11:46:03 | INFO | Received token request for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-19 11:46:03 | INFO | Requesting token from Cognito for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-19 11:46:03 | WARNING | Cognito token request failed: 403
+2025-04-19 11:48:29 | INFO | Received token request for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-19 11:48:29 | INFO | Requesting token from Cognito for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-19 11:48:29 | WARNING | Cognito token request failed: 403
+2025-04-19 11:48:31 | INFO | Received token request for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-19 11:48:31 | INFO | Requesting token from Cognito for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-19 11:48:31 | WARNING | Cognito token request failed: 403
+2025-04-19 11:51:26 | INFO | Received token request for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-19 11:51:26 | INFO | Requesting token from Cognito for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-19 11:51:27 | WARNING | Cognito token request failed: 403
+2025-04-19 11:51:28 | INFO | Received token request for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-19 11:51:28 | INFO | Requesting token from Cognito for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-19 11:51:28 | WARNING | Cognito token request failed: 403
+2025-04-19 11:51:29 | INFO | Received token request for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-19 11:51:29 | INFO | Requesting token from Cognito for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-19 11:51:29 | WARNING | Cognito token request failed: 403
+2025-04-19 11:56:36 | INFO | Received token request for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-19 11:56:36 | INFO | Requesting token from Cognito for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-19 11:56:37 | INFO | Token successfully received from Cognito
+2025-04-21 20:18:03,187 | INFO | Received token request for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-21 20:18:03,188 | INFO | Requesting token from Cognito for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-21 20:18:57,260 | INFO | Received token request for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-21 20:18:57,261 | INFO | Requesting token from Cognito for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-21 20:19:30,374 | INFO | Received token request for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-21 20:19:30,376 | INFO | Requesting token from Cognito for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-21 20:20:54,947 | INFO | Received token request for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-21 20:20:54,947 | INFO | Requesting token from Cognito for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-21 20:24:42,286 | INFO | Received token request for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-21 20:24:42,287 | INFO | Requesting token from Cognito for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-21 20:24:49,320 | INFO | Received token request for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-21 20:24:49,320 | INFO | Requesting token from Cognito for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-21 20:28:11,304 | INFO | Received token request for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-21 20:28:11,304 | INFO | Requesting token from Cognito for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-21 20:30:02,841 | ERROR | Error generating token: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-22 21:45:40,049 | INFO | File uploaded to S3 at uploads/20250423014539_esmd_usecase_final.docx
+2025-04-24 11:19:13,933 | INFO | File uploaded to S3 at uploads/20250424151913_esmd_usecase_final.docx
+2025-04-24 11:20:07,930 | INFO | File uploaded to S3 at uploads/20250424152007_esmd_usecase_final.docx
+2025-04-24 11:21:03,572 | INFO | File uploaded to S3 at uploads/20250424152102_esmd_usecase_final.docx
+2025-04-24 11:21:03,656 | ERROR | Failed to store metadata in RDS: could not translate host name "your-db-host.rds.amazonaws.com" to address: No such host is known. 
+
+2025-04-24 11:21:03,657 | ERROR | Error during file upload: could not translate host name "your-db-host.rds.amazonaws.com" to address: No such host is known. 
+
+2025-04-24 11:23:35,471 | INFO | File uploaded to S3 at uploads/20250424152334_esmd_usecase_final.docx
+2025-04-24 11:23:35,862 | INFO | Metadata stored in RDS
+2025-04-25 18:58:20,676 | WARNING | Token expired (older than 5 minutes)
+2025-04-25 18:58:35,380 | INFO | Received token request for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-25 18:58:35,380 | INFO | Requesting token from Cognito for clientId: 3hd14st6mdf5u6sas5fas2ossa
+2025-04-25 18:59:16,419 | INFO | File uploaded to S3 at uploads/20250425225915_esmd_usecase_final.docx
+2025-04-25 18:59:37,541 | ERROR | Failed to store metadata in RDS: connection to server at "database-2.c6la4qawav77.us-east-1.rds.amazonaws.com" (100.24.142.42), port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-25 18:59:37,543 | ERROR | Error during file upload: connection to server at "database-2.c6la4qawav77.us-east-1.rds.amazonaws.com" (100.24.142.42), port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
